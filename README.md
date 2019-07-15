@@ -1,4 +1,4 @@
-# Malastare AI - Our future with AI 
+# Malastare AI - The future with AI 
 
 Data Scientists thirsty for new challenges and loves problem-solving of any kind. We observe and define problems from different angles and perspectives.
 
